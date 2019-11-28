@@ -204,3 +204,9 @@ input[type=submit]:hover {
   margin-right: 20%;
 }
 
+#index .index, #about .about, #contact .contact, #links .links, #movies .movies
+{
+    background-color: #156bbd;    
+    border: 1px solid #000;
+}
+
